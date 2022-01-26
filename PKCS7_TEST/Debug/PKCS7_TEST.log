@@ -1,0 +1,11 @@
+﻿  PKCS7_TEST.cpp
+C:\GmSSL\include\openssl\applink.c(115,47): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\GmSSL\include\openssl\applink.c(123,46): warning C4996: '_open': This function or variable may be unsafe. Consider using _sopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\86131\Desktop\21秋密码学课设\CryptographyCourseDesign\PKCS7_TEST\PKCS7_TEST.cpp(166,28): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+C:\Users\86131\Desktop\21秋密码学课设\CryptographyCourseDesign\PKCS7_TEST\PKCS7_TEST.cpp(147,9): warning C4101: “len”: 未引用的局部变量
+C:\Users\86131\Desktop\21秋密码学课设\CryptographyCourseDesign\PKCS7_TEST\PKCS7_TEST.cpp(144,12): warning C4101: “pkey”: 未引用的局部变量
+C:\Users\86131\Desktop\21秋密码学课设\CryptographyCourseDesign\PKCS7_TEST\PKCS7_TEST.cpp(148,8): warning C4101: “out”: 未引用的局部变量
+C:\Users\86131\Desktop\21秋密码学课设\CryptographyCourseDesign\PKCS7_TEST\PKCS7_TEST.cpp(146,8): warning C4101: “cert”: 未引用的局部变量
+C:\Users\86131\Desktop\21秋密码学课设\CryptographyCourseDesign\PKCS7_TEST\PKCS7_TEST.cpp(149,6): warning C4101: “flags”: 未引用的局部变量
+    正在创建库 C:\Users\86131\Desktop\21秋密码学课设\CryptographyCourseDesign\Debug\PKCS7_TEST.lib 和对象 C:\Users\86131\Desktop\21秋密码学课设\CryptographyCourseDesign\Debug\PKCS7_TEST.exp
+  PKCS7_TEST.vcxproj -> C:\Users\86131\Desktop\21秋密码学课设\CryptographyCourseDesign\Debug\PKCS7_TEST.exe

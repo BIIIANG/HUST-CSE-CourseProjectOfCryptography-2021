@@ -106,8 +106,8 @@ int main()
 {
 
 #ifdef _DEBUG
-	freopen("..\\Examples\\第四题样例\\1.in", "r", stdin);
-	//freopen("..\\Examples\\第四题样例\\MY1.out", "w", stdout);
+	freopen("..\\Examples\\绗洓棰樻牱渚媆\1.in", "r", stdin);
+	//freopen("..\\Examples\\绗洓棰樻牱渚媆\MY1.out", "w", stdout);
 #endif // _DEBUG
 	
 	uint8_t key[16] = { 0 };

@@ -120,7 +120,7 @@ int main()
 {
 
 #ifdef _DEBUG
-	freopen("..\\Examples\\µÚÁùÌâÑùÀı\\1.in", "r", stdin);
+	freopen("..\\Examples\\ç¬¬å…­é¢˜æ ·ä¾‹\\1.in", "r", stdin);
 #endif // _DEBUG
 
 	//// test mpz_pow_ModRptSqu_xba, the result should be 7775

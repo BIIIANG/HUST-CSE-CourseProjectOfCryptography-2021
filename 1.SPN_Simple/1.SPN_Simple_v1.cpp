@@ -4334,7 +4334,7 @@
 //int main()
 //{
 //#ifdef _DEBUG
-//	freopen("..\\Examples\\µÚÒ»ÌâÑùÀý\\1.in", "r", stdin);
+//	freopen("..\\Examples\\ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½\\1.in", "r", stdin);
 //#endif // _DEBUG
 //
 //	int n = 0;

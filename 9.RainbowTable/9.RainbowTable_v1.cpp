@@ -18,12 +18,12 @@
 //int UnitSHA1(const char* str, int length, unsigned sha1[5])
 //{
 //	/*
-//	¼ÆËã×Ö·û´®SHA-1
-//	²ÎÊıËµÃ÷£º
-//	str         ×Ö·û´®Ö¸Õë
-//	length      ×Ö·û´®³¤¶È
-//	sha1         ÓÃÓÚ±£´æSHA-1µÄ×Ö·û´®Ö¸Õë
-//	·µ»ØÖµÎª²ÎÊısha1
+//	è®¡ç®—å­—ç¬¦ä¸²SHA-1
+//	å‚æ•°è¯´æ˜ï¼š
+//	str         å­—ç¬¦ä¸²æŒ‡é’ˆ
+//	length      å­—ç¬¦ä¸²é•¿åº¦
+//	sha1         ç”¨äºä¿å­˜SHA-1çš„å­—ç¬¦ä¸²æŒ‡é’ˆ
+//	è¿”å›å€¼ä¸ºå‚æ•°sha1
 //	*/
 //	unsigned char* pp, * ppend;
 //	unsigned int l, i, K[80], W[80], TEMP, A, B, C, D, E, H0, H1, H2, H3, H4;
@@ -83,7 +83,7 @@
 //{
 //	//clock_t t1 = clock();
 //#ifdef _DEBUG
-//	freopen("..\\Examples\\µÚ¾ÅÌâÑùÀı\\10.in", "r", stdin);
+//	freopen("..\\Examples\\ç¬¬ä¹é¢˜æ ·ä¾‹\\10.in", "r", stdin);
 //#endif // _DEBUG
 //
 //	int m = 0;

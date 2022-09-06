@@ -108,7 +108,7 @@ int main()
 {
 
 #ifdef _DEBUG
-	freopen("..\\Examples\\第五题样例\\1.in", "r", stdin);
+	freopen("..\\Examples\\绗簲棰樻牱渚媆\1.in", "r", stdin);
 #endif // _DEBUG
 
 

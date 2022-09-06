@@ -227,7 +227,7 @@ int main()
 {
 
 #ifdef _DEBUG
-	freopen("..\\Examples\\µÚÆßÌâÑùÀý\\1.in", "r", stdin);
+	freopen("..\\Examples\\ç¬¬ä¸ƒé¢˜æ ·ä¾‹\\1.in", "r", stdin);
 #endif // _DEBUG
 
 	//// test mpz_pow_squareMul_xba, the result should be 5761

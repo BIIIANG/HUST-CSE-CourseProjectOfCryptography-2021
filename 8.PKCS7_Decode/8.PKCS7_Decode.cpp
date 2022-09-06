@@ -115,7 +115,7 @@ int main(int argc, char** argv)
 	OpenSSL_add_all_algorithms();
 
 #ifdef _DEBUG
-	freopen("..\\Examples\\µÚ°ËÌâÑùÀý\\1.in", "r", stdin);
+	freopen("..\\Examples\\ç¬¬å…«é¢˜æ ·ä¾‹\\1.in", "r", stdin);
 #endif // _DEBUG
 
 	char src[256] = { 0 };

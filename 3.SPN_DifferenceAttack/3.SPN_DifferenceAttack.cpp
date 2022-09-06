@@ -4220,7 +4220,7 @@ inline bool compare(KEYCOUNT keyCount1, KEYCOUNT keyCount2)
 int main()
 {
 #ifdef _DEBUG
-	freopen("..\\Examples\\第三题样例\\2.in", "r", stdin);
+	freopen("..\\Examples\\绗笁棰樻牱渚媆\2.in", "r", stdin);
 #endif // _DEBUG
 
 	int n = 0;

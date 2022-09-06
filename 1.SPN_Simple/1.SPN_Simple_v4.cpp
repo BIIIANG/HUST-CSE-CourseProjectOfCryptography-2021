@@ -238,7 +238,7 @@ inline void quickFwriteShortHex(unsigned short hx)
 int main()
 {
 #ifdef _DEBUG
-	freopen("..\\Examples\\第一题样例\\1.in", "r", stdin);
+	freopen("..\\Examples\\绗竴棰樻牱渚媆\1.in", "r", stdin);
 #endif // _DEBUG
 
 	int n = 0;
